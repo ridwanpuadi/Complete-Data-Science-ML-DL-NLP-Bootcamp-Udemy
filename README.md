@@ -1,4 +1,4 @@
-# 📊 Complete Data Science, ML, DL, NLP Bootcamp (Udemy)
+# 📊 Complete Python Bootcamp (Udemy)
 Repository ini berisi catatan, kode, dan proyek yang saya pelajari dari kursus Complete Data Science, Machine Learning, Deep Learning & NLP Bootcamp di [Udemy](https://www.udemy.com/course/complete-machine-learning-nlp-bootcamp-mlops-deployment/?couponCode=ST17MT31325G1).
 
 ## 📌 Materi yang Dicakup
